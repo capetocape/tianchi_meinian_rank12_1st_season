@@ -97,3 +97,4 @@ lightgbm __version__ = '2.1.0'
 我在pycharm上把project建在主目录下，直接运行main.py即可，也可以在命令行下运行main.py
 
 
+_
